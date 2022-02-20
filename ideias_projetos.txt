@@ -1,0 +1,7 @@
+testar o monday, holiday e effect em indices e stocks do ibov atraves das decadas + custo de transacao etc
+testar normalidade do retorno das ações +  para simular o retorno das ações e a distribuição de probabilidade + testar diferentes distribuições
+
+realizar diferentes metricas de otimização de portfolio para encontrar a distribuição otima 
+
+
+
